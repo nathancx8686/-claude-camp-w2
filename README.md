@@ -15,6 +15,7 @@
 - **运行：** `python todolist.PY`
 - **技术点：** 列表、字典、JSON 读写、异常处理、排序
 
-## 运行环境
-- Python 3.x
-- 无需安装额外库
+## 练习4：安全计算器
+- **功能：** 支持复杂算式、连续计算、清零、异常处理
+- **运行：** `python calculator.py`
+- **技术点：** eval、while True、try/except、字符串处理
